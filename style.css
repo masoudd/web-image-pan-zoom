@@ -1,0 +1,18 @@
+html {
+  cursor: grab;
+  overflow: hidden;
+  background: #2f2f2d;
+}
+body {
+    margin: 0;
+}
+.viewport {
+  margin: auto;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  touch-action: none;
+  box-sizing: border-box;
+}
